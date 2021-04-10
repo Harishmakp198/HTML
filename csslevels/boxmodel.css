@@ -1,0 +1,36 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+#one{
+    width: 100px;
+    border-style: solid;
+    border-color: aqua;
+}
+h1{
+margin: 0;
+padding: 0;
+}
+#top{
+    position: relative;
+    left: 20%;
+    /* bottom: 10%; */
+    width:40%;
+    background-color: coral;
+    border-style: solid;
+    border-color: darkblue;
+    border: width 1px; 
+    
+}
+#bottom{
+     width: 40%;
+    background-color: coral;
+    border-style: solid;
+    border-color: darkblue;
+    border: width 1px; 
+    margin-top: 30%;
+    margin-left: 40%;
+}
+h3{
+    font-family: 'Dancing Script', cursive;
+}
